@@ -1,4 +1,4 @@
-# discord_proxy
+# Discord Proxy (discord_proxy)
 
 Exposes web services over Discord
 
